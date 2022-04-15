@@ -13,7 +13,7 @@ yargs.command({
     command:'remove',
     description:'remove a note',
     handler: function(){
-        console.log("Removing a new note");
+        console.log("Removing a note");
     }
 })
 yargs.command({
